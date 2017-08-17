@@ -64,7 +64,6 @@ public class MainActivity extends AppCompatActivity {
             @Override
             public void onClick(View v) {
 
-
                 int b = Integer.valueOf(textView1.getText().toString());
 
                 if (b >= questions.size()) {
